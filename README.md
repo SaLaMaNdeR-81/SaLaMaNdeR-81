@@ -1,5 +1,4 @@
 
-![Baner](https://github.com/SaLaMaNdeR-81/SaLaMaNdeR-81/assets/104043896/713fe7c7-4661-4da4-8958-a5293b097058)
 ![Baner](https://github.com/SaLaMaNdeR-81/SaLaMaNdeR-81/assets/104043896/49b67280-ba5a-4f75-bde7-62f33ffba0f3)
 
 
