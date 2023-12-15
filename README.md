@@ -22,8 +22,9 @@
 
 ----
 
-[![React](https://img.shields.io/badge/React.Js-blue?logo=react)
-[![React](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript)
+![React](https://img.shields.io/badge/React.Js-blue?logo=react)
+![React](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript)
 
 
 ----
