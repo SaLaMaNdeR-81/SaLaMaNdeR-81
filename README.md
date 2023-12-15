@@ -27,7 +27,7 @@
 ![Sass](https://img.shields.io/badge/Sass-purple?logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript)
 ![React](https://img.shields.io/badge/React.Js-blue?logo=react)
-![َAngular](https://img.shields.io/badge/Angular-red?logo=angular)
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
 
 
 ----
