@@ -22,12 +22,11 @@
 
 ----
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,React,Angular)](https://skills.thijs.gg)
+[![React](https://img.shields.io/badge/React.Js-blue?logo=react)
+[![React](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript)
 
 
 ----
-
-![d](https://github.com/SaLaMaNdeR-81/SaLaMaNdeR-81/assets/104043896/b17bff63-bc68-452e-9d40-1c48b89d9dd3)
 
 ----
 
