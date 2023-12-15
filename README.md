@@ -16,9 +16,7 @@
 
 ----
 
-![html-flat-128x128](https://github.com/SaLaMaNdeR-81/SaLaMaNdeR-81/assets/104043896/874b228c-c7cd-4c75-ad15-f7846173b207)
-![css-flat-128x128](https://github.com/SaLaMaNdeR-81/SaLaMaNdeR-81/assets/104043896/b9d739c9-f4e7-4538-bcf0-25fd2f4af072)
-![js-flat-128x128](https://github.com/SaLaMaNdeR-81/SaLaMaNdeR-81/assets/104043896/3d0da70c-8e87-4933-8a6e-055bbd45df95)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,React,Angular)](https://skills.thijs.gg)
 
 ----
 
