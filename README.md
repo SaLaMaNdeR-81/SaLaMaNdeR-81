@@ -22,7 +22,7 @@
 
 ----
 
-![Html](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white)
+[![Html](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white)](#)
 ![Css](https://img.shields.io/badge/CSS-%230075a8?logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-purple?logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript)
