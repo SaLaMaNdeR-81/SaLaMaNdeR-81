@@ -24,8 +24,8 @@
 [![Html](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white)](#)
 [![Css](https://img.shields.io/badge/CSS-%230075a8?logo=css3&logoColor=white)](#)
 [![Sass](https://img.shields.io/badge/Sass-purple?logo=sass&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript)](#)
-[![Express](https://img.shields.io/badge/Express.js-green?logo=express)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white)](#)
+[![Express](https://img.shields.io/badge/Express.js-green?logo=express&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React.Js-blue?logo=react)](#)
 [![Angular](https://img.shields.io/badge/Angular-red?logo=angular)](#)
 
