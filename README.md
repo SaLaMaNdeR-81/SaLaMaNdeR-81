@@ -33,8 +33,10 @@
 [![Instagram](https://img.shields.io/badge/Skype-gray?style=for-the-badge&logo=skype)](https://join.skype.com/invite/MqAGDpkFdq01)
 [![Instagram](https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord)](#)
 
-----
+-------
+## Systems OS
 
-----
+<img src="https://github-readme-stats.vercel.app/api?username=SaLaMaNdeR-81&show_icons=true&theme=default&line_height=25&layout=compact" />
+
 
 
