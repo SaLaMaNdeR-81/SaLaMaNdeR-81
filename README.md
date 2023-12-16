@@ -1,16 +1,17 @@
 
 ![Baner](https://github.com/SaLaMaNdeR-81/SaLaMaNdeR-81/assets/104043896/49b67280-ba5a-4f75-bde7-62f33ffba0f3)
 
-
-
-- 👋 Hi, My Name is Mahdi
-  
-- 💻 I'm Junior FullStack Developer
-- 👀 I'm interested in programming 
-- 🌱 I'm learning programming
-- 💞️ I like coding with JavaScript
-  
 ---
+> ** 👋 Hi, My Name is Mahdi **
+  
+> ** 💞️ I like coding with JavaScript **
+
+> ** 💻 I'm Junior FullStack Developer **
+
+> ** 👀 I'm interested in programming **
+
+> ** 🌱 I'm learning programming **
+
 > **💾Programming on JavaScript**
 
 > **🗂️I'm interested WebDeveloping**
