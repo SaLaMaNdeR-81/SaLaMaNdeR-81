@@ -34,9 +34,6 @@
 [![Instagram](https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord)](#)
 
 -------
-## Systems OS
 
-<img src="https://github-readme-stats.vercel.app/api?username=einollahi-m&show_icons=true&theme=default&line_height=25&layout=compact" />
-
-
+-------
 
