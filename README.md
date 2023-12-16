@@ -33,6 +33,7 @@
 
 [![/gitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/SaLaMaNdeR-81)
 [![Instagram](https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram)](https://www.instagram.com/salamander_m81/)
+[![Instagram](https://img.shields.io/badge/Skype-gray?style=for-the-badge&logo=skype)](https://join.skype.com/invite/MqAGDpkFdq01)
 
 ----
 
