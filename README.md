@@ -13,7 +13,7 @@
 
 > **🗂️I'm interested WebDeveloping**
 
-> **📦Coding on: JavaScript **
+> **📦Coding on: JavaScript**
 
 > **🎟️I'm interested Programing**
 ----
