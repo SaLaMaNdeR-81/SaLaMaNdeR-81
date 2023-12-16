@@ -31,7 +31,7 @@
 
 ## 📌 Find Me On
 
-[![Instagram](https://img.shields.io/badge/Instagram-SaLaMaNdeR-red?style=for-the-badge&logo=instagram)]([#](https://www.instagram.com/salamander_m81/)https://www.instagram.com/salamander_m81/)
+[![Instagram](https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram)]([#](https://www.instagram.com/salamander_m81/)https://www.instagram.com/salamander_m81/)
 
 
 ----
