@@ -30,8 +30,8 @@
 
 [![/gitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/SaLaMaNdeR-81)
 [![Instagram](https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram)](https://www.instagram.com/salamander_m81/)
-[![Instagram](https://img.shields.io/badge/Skype-gray?style=for-the-badge&logo=skype)](https://join.skype.com/invite/MqAGDpkFdq01)
-[![Instagram](https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord)](#)
+[![Skype](https://img.shields.io/badge/Skype-gray?style=for-the-badge&logo=skype)](https://join.skype.com/invite/MqAGDpkFdq01)
+[![Discord](https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord)](https://discordapp.com/users/499404559592980480)
 
 -------
 
