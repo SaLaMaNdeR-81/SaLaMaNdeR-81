@@ -11,7 +11,7 @@
   
 ---
 
-> **`💻 FullStack Developer`**
+**`💻 FullStack Developer`**
 
 > **💾 Programming on JavaScript**
 
