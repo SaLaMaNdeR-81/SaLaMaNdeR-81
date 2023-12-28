@@ -1,4 +1,3 @@
-# 🦎 SaLaMaNdeR-81
 
 ![Baner](https://github.com/SaLaMaNdeR-81/SaLaMaNdeR-81/assets/104043896/49b67280-ba5a-4f75-bde7-62f33ffba0f3)
 
