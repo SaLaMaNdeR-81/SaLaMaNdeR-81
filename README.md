@@ -15,8 +15,6 @@
 
 > **🗂️ I'm interested WebDeveloping**
 
-> **📦 Coding on: JavaScript**
-
 > **🎟️ interested in TypeScript & Angular.js**
 ----
 
