@@ -5,8 +5,7 @@
   
 - 💻 I'm Junior FullStack Developer
 - 👀 I'm interested in programming 
-- 🌱 I'm learning programming
-- 💞️ I like coding with JavaScript
+- 💞️ I like coding with TypeScript
   
 ---
 
@@ -18,7 +17,7 @@
 
 > **📦 Coding on: JavaScript**
 
-> **🎟️ I'm interested Programing**
+> **🎟️ interested in TypeScript & Angular.js**
 ----
 
 [![Html](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white)](#)
