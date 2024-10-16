@@ -13,7 +13,7 @@
 
 > **💾 Programming on JavaScript**
 
-> **🗂️ I'm interested WebDeveloping**
+> **🗂️ I'm interested WebDevelopment**
 
 > **🎟️ interested in TypeScript & Angular.js**
 ----
