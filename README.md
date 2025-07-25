@@ -3,7 +3,7 @@
 
 - 👋 Hi, My Name is Mahdi
   
-- 💻 I'm Junior FullStack Developer
+- 💻 I'm Mid-Level FullStack Developer
 - 👀 I'm interested in programming 
 - 💞️ I like coding with TypeScript
   
