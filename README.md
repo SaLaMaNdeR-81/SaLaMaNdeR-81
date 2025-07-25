@@ -5,13 +5,13 @@
   
 - 💻 I'm Mid-Level FullStack Developer
 - 👀 I'm interested in programming 
-- 💞️ I like coding with TypeScript
+- 💞️ I like coding with TypeScript & Python
   
 ---
 
 **`💻 FullStack Developer`**
 
-> **💾 Programming on JavaScript**
+> **💾 Programming on TypeScript**
 
 > **🗂️ interested in WebDevelopment**
 
